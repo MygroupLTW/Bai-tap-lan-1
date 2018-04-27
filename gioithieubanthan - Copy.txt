@@ -1,0 +1,18 @@
+<head>
+    <title    > Gioi thieu ban than  </title>
+    <meta charset="utf-8"> </meta>
+    <body>
+        <h1> 1. Đôi nét về tôi : <br>
+        Họ và tên : Bùi Văn Hải <br>
+    Sinh ngày : 01/01/1997</h1>
+       <h2 align = "left" ><b> Các sự kiện trong đời của tôi</b> </h2> <br>
+       <h3> 1.Năm 2003 bắt đầu đi học lớp 1 tuy không giỏi lắm nhưng đứng trong top3 lớp <br>
+        <img title = " đứng top 3 trong lớp tiêu học.hihi ^^ " width = "200"  src = 'podiummeilleurscadeauxduweb.jpg'> </img>
+          <br> 2. Năm 2005 bắt đầu tập đi xe đạp tuy có khó khăn những vẫn vượt qua <br>
+        <img title = " tập đi xe đạp" width = "200" src = "đi xe đạp.jpg"></img> <br>
+        3. Năm 2008 vào cấp 2 lúc đầu bỡ ngỡ với phương pháp học những vẫn cố gắng đứng top 10 <br>
+        <img title = " trường cấp 2 của tôi đó" width = "200" src =  "trường cấp 2.jpg"</img> <br>
+    4. Năm 2012 thi lên cấp 3 <br> <img title = "trường cấp 3 của tôi" width = "200" src ="thanh oai b.jpg"</img> <br>
+5. Năm 2015 thi đại học và duyên số đã đưa đến Học viện Ngân hàng <br> <img title = " số 12 chùa bộc nha" width = "200" src "học viện ngân hàng.jpg" </h3>
+    </body>
+</head>
